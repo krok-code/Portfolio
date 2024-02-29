@@ -59,8 +59,7 @@ body {
   font-weight: 700;
   font-size: 22px;
   line-height: 27px;
-  padding: 0px 0px 8px -15px;
-  margin: 0px 0px 8px 5px;
+  margin-bottom: 8px;
 }
 
 .links {
@@ -68,7 +67,6 @@ body {
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
-  margin: 0px 0px 40px 20px;
   list-style: none;
 }
 
@@ -79,6 +77,13 @@ body {
 .span {
   color: #2979ff;
   font-weight: 600;
+  text-decoration: none;
+}
+
+.project {
+  font-weight: 600;
+  color: #161d2a;
+  padding: 3px 0px;
 }
 
 .project-p {
@@ -151,14 +156,9 @@ body {
   padding: 0px 0px 8px 0px;
 }
 
-.color-2 {
-  padding: 0px 0px 8px 10px;
-}
-
 .kurs {
   font-size: 14px;
   color: #161d2a;
-  padding-left: 10px;
 }
 
 .p {
@@ -167,7 +167,6 @@ body {
   font-size: 12px;
   line-height: 15px;
   color: #a8a8a8;
-  padding: 0px 0px 8px 10px;
 }
 
 .sidebar {
