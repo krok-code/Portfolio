@@ -51,7 +51,7 @@ body {
 }
 
 .my-projects {
-  padding: 40px 0px 0px 0px;
+  padding: 40px 0px 20px 0px;
 }
 
 .projects {
@@ -59,7 +59,7 @@ body {
   font-weight: 700;
   font-size: 22px;
   line-height: 27px;
-  margin-bottom: 8px;
+  margin-bottom: 15px;
 }
 
 .links {
@@ -68,6 +68,7 @@ body {
   font-size: 14px;
   line-height: 24px;
   list-style: none;
+  margin-left: 15px;
 }
 
 .li {
@@ -75,15 +76,17 @@ body {
 }
 
 .span {
+  font-size: 14px;
   color: #2979ff;
   font-weight: 600;
   text-decoration: none;
 }
 
 .project {
+  font-size: 16px;
   font-weight: 600;
   color: #161d2a;
-  padding: 3px 0px;
+  padding-bottom: 5px;
 }
 
 .project-p {
@@ -122,7 +125,7 @@ body {
   font-size: 16px;
   line-height: 20px;
   color: #6096ff;
-  margin: 25px 0px 5px 0px;
+  margin: 15px 0px 0px 0px;
 }
 
 .work-experience-p {
@@ -143,22 +146,24 @@ body {
   margin: 10px 0px 0px 10px;
 }
 
-.my-education {
-  padding: 0px 0px 150px 0px;
-}
-
 .education {
   font-style: normal;
   font-weight: 700;
   font-size: 22px;
   line-height: 27px;
-  margin: 0px 0px -2px 0px;
-  padding: 0px 0px 8px 0px;
+}
+
+.education-container {
+  margin-left: 15px;
 }
 
 .kurs {
   font-size: 14px;
   color: #161d2a;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 17px;
+  padding: 7px 0px 7px 0px;
 }
 
 .p {
@@ -167,6 +172,7 @@ body {
   font-size: 12px;
   line-height: 15px;
   color: #a8a8a8;
+  padding-bottom: 10px;
 }
 
 .sidebar {
